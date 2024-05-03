@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 375px;
+  margin: 0 auto;
+}
+
+.App header {
+  text-align: center;
+}
+
+.loadMore {
+  width: 150px;
+  height: 46px;
+  align-self: center;
+
+  color: white;
+  background: #465AE9;
+  border: none;
+  border-radius: 10px;
+}

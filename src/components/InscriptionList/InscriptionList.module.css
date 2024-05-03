@@ -1,0 +1,37 @@
+.inscriptionList {
+  padding: 0 16px;
+}
+
+.inscriptionList header {
+  margin-bottom: 24px;
+  text-align: left;
+}
+
+.inscriptionList ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+.inscriptionList li {
+  display: flex;
+}
+
+.inscriptionList li button {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 0;
+  color: white;
+  background: none;
+  border: none;
+}
+
+.inscriptionList li span {
+  display: inline-flex;
+  align-items: center;
+  height: 49px;
+}
+
+.title {
+  flex: 1;
+}

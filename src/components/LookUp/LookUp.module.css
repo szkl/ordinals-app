@@ -1,0 +1,48 @@
+.lookup {
+  padding: 0 16px;
+}
+
+.lookup header {
+  margin-top: 54px;
+  margin-bottom: 17px;
+}
+
+.lookup form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 10px;
+  margin-bottom: 16px;
+}
+
+.lookup label {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.lookup input[type="text"] {
+  width: 342px;
+  height: 32px;
+  margin-bottom: 10px;
+  padding: 0;
+  font-size: 14px;
+  line-height: 17px;
+  color: white;
+  background: #24252C;
+  border: none;
+}
+
+.lookup button[type="submit"] {
+  width: 342px;
+  height: 46px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  color: white;
+  background: #465AE9;
+  border: none;
+  border-radius: 10px;
+}
